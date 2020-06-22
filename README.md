@@ -12,6 +12,8 @@
 
 
 ### # 사용 언어 및 라이브러리
+- C
+- Arduino
 - Adafruit FingerPrint 라이브러리 http://www.adafruit.com/products/751
 
 
